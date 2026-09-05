@@ -15,7 +15,7 @@ This study investigates the feasibility of the decision tree algorithm (CART) fo
 ## SPSS Decision Tree Model
 The decision tree was generated using **IBM SPSS** (CART algorithm) based on clinical evaluation parameters and patient history.
 
-![COVID-19 Decision Tree](figure/final_picture.png)
+![COVID-19 Decision Tree](figure/final_picture.PNG)
 
 ---
 
